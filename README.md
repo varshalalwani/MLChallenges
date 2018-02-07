@@ -1,2 +1,2 @@
 # MLChallenges
-Code submitted for all the online Data science and ML challenges participated in
+This repository contains the codes used for submission to various online Data science and ML challenges.
